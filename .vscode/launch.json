@@ -1,0 +1,70 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Array",
+            "request": "launch",
+            "mainClass": "Array",
+            "projectName": "100-Days-Of-Java_3e572937"
+        },
+        {
+            "type": "java",
+            "name": "ArraySumAlternate",
+            "request": "launch",
+            "mainClass": "ArraySumAlternate",
+            "projectName": "100-Days-Of-Java_3e572937"
+        },
+        {
+            "type": "java",
+            "name": "BasicPackage",
+            "request": "launch",
+            "mainClass": "BasicPackage",
+            "projectName": "100-Days-Of-Java_3e572937"
+        },
+        {
+            "type": "java",
+            "name": "BubbleSort",
+            "request": "launch",
+            "mainClass": "BubbleSort",
+            "projectName": "100-Days-Of-Java_3e572937"
+        },
+        {
+            "type": "java",
+            "name": "Nth_Max_Element",
+            "request": "launch",
+            "mainClass": "Nth_Max_Element",
+            "projectName": "100-Days-Of-Java_3e572937"
+        },
+        {
+            "type": "java",
+            "name": "ReverseArray",
+            "request": "launch",
+            "mainClass": "ReverseArray",
+            "projectName": "100-Days-Of-Java_3e572937"
+        },
+        {
+            "type": "java",
+            "name": "SelectSort",
+            "request": "launch",
+            "mainClass": "SelectSort",
+            "projectName": "100-Days-Of-Java_3e572937"
+        },
+        {
+            "type": "java",
+            "name": "StaticBlock",
+            "request": "launch",
+            "mainClass": "StaticBlock",
+            "projectName": "100-Days-Of-Java_3e572937"
+        }
+    ]
+}
